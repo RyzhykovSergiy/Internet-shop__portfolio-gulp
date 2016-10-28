@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Raleway-Bold';
+    src: url('../fonts/Raleway/Raleway-Bold.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-ExtraBold';
+    src: url('../fonts/Raleway/Raleway-ExtraBold.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-ExtraLight';
+    src: url('../fonts/Raleway/Raleway-ExtraLight.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Heavy';
+    src: url('../fonts/Raleway/Raleway-Heavy.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Light';
+    src: url('../fonts/Raleway/Raleway-Light.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Medium';
+    src: url('../fonts/Raleway/Raleway-Medium.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Regular';
+    src: url('../fonts/Raleway/Raleway-Regular.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-SemiBold';
+    src: url('../fonts/Raleway/Raleway-SemiBold.otf') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Thin';
+    src: url('../fonts/Raleway/Raleway-Thin') format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url('../fonts/Roboto/Roboto-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto-BlackItalic';
+  src: url('../fonts/Roboto-BlackItalic/Roboto-BlackItalic.eot?#iefix') format('embedded-opentype'), url('../fonts/Roboto-BlackItalic/Roboto-BlackItalic.woff') format('woff'), url('../fonts/Roboto-BlackItalic/Roboto-BlackItalic.ttf')  format('truetype'), url('../fonts/Roboto-BlackItalic/Roboto-BlackItalic.svg#Roboto-BlackItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

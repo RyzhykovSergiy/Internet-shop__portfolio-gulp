@@ -1,0 +1,22 @@
+* {margin: 0; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; -webkit-font-smoothing: antialiased;}
+html, body {height: 100%; word-wrap: break-word;}
+table {border-collapse: collapse; width: 100%;}
+input:focus {outline: none;}
+img, table {border: none;}
+a:link, a:visited {text-decoration: none; -webkit-transition: all 0.2s linear 0s; -moz-transition: all 0.2s linear 0s; -o-transition: all 0.2s linear 0s; transition: all 0.2s linear 0s;}
+a:hover, a:active {text-decoration: none;}
+button {outline: none; cursor: pointer;}
+svg:not(:root) {overflow: hidden;}
+header,footer,article,section,nav,menu,aside,figure,figcaption,mark{display:block;}
+h1, h2, h3, h4, h5, h6 {margin: 0; font-weight: normal;}
+ul, ol {list-style:none;}
+p {margin: 0; line-height: 1.5;}
+img{height:auto;max-width:100%;vertical-align:middle;border:0;-ms-interpolation-mode:bicubic;}
+:-moz-placeholder {color: #808080;}
+::-moz-placeholder {color: #808080;}
+:-ms-input-placeholder {color: #808080;}
+textarea {resize: vertical; height: auto;}
+ul, ol {list-style:none;}
+a {color: #fff; text-decoration: none}
+.left{ float: left;}
+.right{ float: right;}
